@@ -1,0 +1,243 @@
+!SESSION 2019-12-18 09:11:25.183 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:36.689
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:37.472
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:37.767
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:37.768
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:38.057
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:38.458
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:11:41.069
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 09:47:19.199 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:31.694
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:32.416
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:32.517
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:32.518
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:32.792
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:33.402
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:47:35.206
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 09:50:57.560 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:08.886
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:09.572
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:09.672
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:09.674
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:09.883
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:10.352
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:51:12.128
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 09:54:03.322 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:14.623
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:15.509
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:15.616
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:15.617
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:16.007
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:16.407
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:54:17.819
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 09:56:09.571 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:23.101
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:23.837
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:24.060
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:24.063
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:24.404
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:24.914
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 09:56:26.609
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 10:02:09.323 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:20.740
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:21.717
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:21.912
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:21.914
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:22.311
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:22.623
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:02:24.427
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 10:09:23.693 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:35.876
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:36.600
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:36.803
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:36.805
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:37.378
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:37.900
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:09:39.800
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-18 10:20:14.718 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:24.898
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:25.512
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:25.624
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:25.626
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:25.995
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:26.412
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-18 10:20:28.100
+!MESSAGE Finished creating the default Java project
+!SESSION 2019-12-20 09:28:27.246 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:41.117
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:42.551
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:42.834
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:42.836
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:43.318
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:44.137
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-12-20 09:28:46.635
+!MESSAGE Finished creating the default Java project
